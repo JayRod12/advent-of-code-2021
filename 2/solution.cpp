@@ -72,7 +72,7 @@ int solve(vector<pair<Direction, int>>& arr) {
 }
 
 int main(void) {
-  cout << "Problem 1" << endl;
+  cout << "Problem 2" << endl;
 
   string direction;
   int val;
