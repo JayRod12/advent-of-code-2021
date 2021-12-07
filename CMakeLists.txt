@@ -13,5 +13,6 @@ add_executable(3 3/solution.cpp)
 add_executable(4 4/solution.cpp)
 add_executable(5 5/solution.cpp)
 add_executable(6 6/solution.cpp)
+add_executable(7 7/solution.cpp)
 
 

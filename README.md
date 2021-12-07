@@ -9,6 +9,7 @@ In C++
 - [Day 4: Giant Squid](4/solution.cpp)
 - [Day 5: Hydrothermal](5/solution.cpp)
 - [Day 6: Lanternfish](6/solution.cpp)
+- [Day 6: The Treachery of Whales](7/solution.cpp)
 
 # Build
 
