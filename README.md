@@ -11,6 +11,7 @@ In C++
 - [Day 6: Lanternfish](6/solution.cpp)
 - [Day 7: The Treachery of Whales](7/solution.cpp)
 - [Day 8: Seven Segment Search](8/solution.cpp)
+- [Day 9: Smoke Basin](9/solution.cpp)
 
 # Build
 
