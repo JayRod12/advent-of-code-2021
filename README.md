@@ -13,6 +13,7 @@ In C++
 - [Day 8: Seven Segment Search](8/solution.cpp)
 - [Day 9: Smoke Basin](9/solution.cpp)
 - [Day 10: Syntax Scoriong](10/solution.cpp)
+- [Day 11: Dumbo Octopus](11/solution.cpp)
 
 # Build
 
