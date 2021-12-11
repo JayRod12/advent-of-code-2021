@@ -79,7 +79,7 @@ int solve1(vector<vector<int>>& grid) {
 }
 
 int main(void) {
-  cout << "Problem 8" << endl;
+  cout << "Problem 9" << endl;
 
   vector<vector<int>> grid;
 

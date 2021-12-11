@@ -99,7 +99,7 @@ int solve1(vector<vector<char>> lines) {
 }
 
 int main(void) {
-  cout << "Problem 8" << endl;
+  cout << "Problem 10" << endl;
 
   vector<vector<char>> lines;
 
