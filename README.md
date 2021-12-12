@@ -14,6 +14,7 @@ In C++
 - [Day 9: Smoke Basin](9/solution.cpp)
 - [Day 10: Syntax Scoring](10/solution.cpp)
 - [Day 11: Dumbo Octopus](11/solution.cpp)
+- [Day 12: Passage Pathing](12/solution.cpp)
 
 # Build
 
