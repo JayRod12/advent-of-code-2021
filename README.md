@@ -15,6 +15,7 @@ In C++
 - [Day 10: Syntax Scoring](10/solution.cpp)
 - [Day 11: Dumbo Octopus](11/solution.cpp)
 - [Day 12: Passage Pathing](12/solution.cpp)
+- [Day 13: Transparent Origami](13/solution.cpp)
 
 # Build
 
