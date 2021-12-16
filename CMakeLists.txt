@@ -21,5 +21,6 @@ add_executable(11 11/solution.cpp)
 add_executable(12 12/solution.cpp)
 add_executable(13 13/solution.cpp)
 add_executable(14 14/solution.cpp)
+add_executable(15 15/solution.cpp)
 
 
