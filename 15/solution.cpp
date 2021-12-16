@@ -135,13 +135,9 @@ Grid multiply(Grid& grid) {
         for (int j = 0; j < m; j++) {
           // every time we wrap from 9 -> 1, so if we wrap twice, e.g. for 8 + 16 = 24 -> 4 + 2 -> 6
           int newval = grid[i][j].first + k + l;
-          int diff = newval/10;
-          newval %= 10;
-          newval += diff;
-
           int ii = n*k+i;
           int jj = m*l+j;
-          big[ii][jj].first = newval;
+          big[ii][jj].first = (newval % 10) + (newval / 10);
           big[ii][jj].second = INT_MAX;
         }
       }
