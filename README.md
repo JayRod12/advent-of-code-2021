@@ -18,6 +18,7 @@ In C++
 - [Day 13: Transparent Origami](13/solution.cpp)
 - [Day 14: Extended Polymerization](14/solution.cpp)
 - [Day 15: Chiton](15/solution.cpp)
+- [Day 16: Packet Decoder](16/solution.cpp)
 
 # Build
 
