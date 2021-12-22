@@ -19,6 +19,7 @@ In C++
 - [Day 14: Extended Polymerization](14/solution.cpp)
 - [Day 15: Chiton](15/solution.cpp)
 - [Day 16: Packet Decoder](16/solution.cpp)
+- [Day 17: Trick Shot](17/solution.cpp)
 
 # Build
 
