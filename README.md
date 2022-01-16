@@ -21,6 +21,7 @@ In C++
 - [Day 16: Packet Decoder](16/solution.cpp)
 - [Day 17: Trick Shot](17/solution.cpp)
 - [Day 18: Snailfish](18/solution.cpp)
+- [Day 19: Beacon Scanner](19/solution.cpp)
 
 # Build
 

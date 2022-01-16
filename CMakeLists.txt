@@ -3,7 +3,15 @@ cmake_minimum_required(VERSION 3.5)
 
 set(CMAKE_CXX_COMPILER "/usr/bin/g++")
 set(CMAKE_CXX_STANDARD 20)
-set(CMAKE_BUILD_TYPE Debug)
+
+if(NOT CMAKE_BUILD_TYPE)
+  set(CMAKE_BUILD_TYPE Release)
+endif()
+set(CMAKE_CXX_FLAGS "-Wall -Wextra")
+set(CMAKE_CXX_FLAGS_DEBUG "-g")
+set(CMAKE_CXX_FLAGS_RELEASE "-O3")
+
+find_package(Eigen3 3.3 REQUIRED NO_MODULE)
 
 project(aoc)
 
@@ -25,5 +33,7 @@ add_executable(15 15/solution.cpp)
 add_executable(16 16/solution.cpp)
 add_executable(17 17/solution.cpp)
 add_executable(18 18/solution.cpp)
+add_executable(19 19/solution.cpp)
+target_link_libraries(19 Eigen3::Eigen)
 
 
